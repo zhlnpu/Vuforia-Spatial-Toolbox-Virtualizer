@@ -1,3 +1,10 @@
+others:
+
+3D Scene Understanding with TensorFlow 3D [https://ai.googleblog.com/2021/02/3d-scene-understanding-with-tensorflow.html]
+
+
+
+
 # Vuforia Spatial Toolbox Virtualizer
 
 ## Read First
